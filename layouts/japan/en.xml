@@ -118,11 +118,11 @@
     <row>
       <button type="tag" label="@string/tag.amenity_bench" icon="button_amenity_bench" />
       <button type="tag" label="@string/tag.amenity_water" icon="button_amenity_water" />
-      <button type="tag" label="Vending Machine" icon="vending_machine.png" />
+      <button type="tag" label="Vending Machine" icon="japan_icons/vending_machine.png" />
     </row>
     <row>
       <button type="tag" label="@string/tag.amenity_shop" icon="button_amenity_shop" />
-      <button type="tag" label="Post Box" icon="post_box.png" />
+      <button type="tag" label="Post Box" icon="japan_icons/post_box.png" />
       <button type="tag" label="@string/tag.amenity_sport" icon="button_amenity_sport" />
     </row>
     <row>
